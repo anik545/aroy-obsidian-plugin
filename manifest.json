@@ -1,0 +1,11 @@
+{
+	"id": "aroy-obsidian-plugin",
+	"name": "Testing Plugin dev",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Testing",
+	"author": "Obsidian",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
